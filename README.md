@@ -33,7 +33,7 @@ modules/
 
 Адаптировано под локальный запуск. Необходимо предварительно настроить Airflow
 
-    • git clone git@github.com:temeka1221/airflow.git
+    • git clone git@github.com:temeka1221/carprice-predictions-airflow.git
     • cp dags/hw_dag.py ~/airflow/dags/hw_dag.py
     • Активировать ваше окружение Airflow
     • airflow webserver -p 8090
