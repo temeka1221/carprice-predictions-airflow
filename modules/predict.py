@@ -3,6 +3,7 @@
 и ее использования для предсказания цены автомобилей
 """
 
+import pandas as pd
 import dill
 import json
 import os
